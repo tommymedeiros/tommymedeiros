@@ -8,12 +8,6 @@ My experience spans government platforms, financial services, and industrial app
 
 In my independent practice, I build applications from design system to deployment. I also develop AI agent workflows and Model Context Protocol (MCP) integrations, using code review and automated checks to evaluate their output.
 
-## What I bring
-
-- **Design systems.** I work on token architecture, component libraries, interaction patterns, and the documentation that connects them.
-- **Design-to-code implementation.** I translate designs into React and TypeScript components, with attention to accessibility and interaction details.
-- **Cross-disciplinary collaboration.** I help design, product, and engineering teams clarify requirements, prototype interactions, and resolve implementation questions.
-
 ## Tools and practices
 
 My frontend work uses React, TypeScript, HTML, CSS, and Tailwind CSS. I connect Figma Variables with DTCG design tokens and use Vitest, Playwright, Git, and CI/CD in my development workflows.
